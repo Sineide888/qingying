@@ -10,6 +10,8 @@ Lite Shadow 是一款 Windows 本地影音播放器，用来播放电脑里的�
 
 [下载 QingyingSetup-1.1.2.exe](https://github.com/Sineide888/qingying/releases/download/v1.1.2/QingyingSetup-1.1.2.exe)
 
+安装包也放在 [1.1.2 发布页](https://github.com/Sineide888/qingying/releases/tag/v1.1.2)。
+
 双击安装即可。安装不需要管理员权限，程序会装到当前用户目录。安装时可以创建桌面快捷方式。
 
 如果 Windows 提示“已保护你的电脑”，点“更多信息”，再点“仍要运行”。安装包目前没有数字签名，所以会出现这个提示。
