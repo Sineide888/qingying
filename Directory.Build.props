@@ -1,0 +1,13 @@
+<Project>
+  <PropertyGroup>
+    <Version>1.1.2</Version>
+    <Company>Lite Shadow</Company>
+    <Product>Lite Shadow</Product>
+    <Copyright>Copyright © 2026 Lite Shadow</Copyright>
+    <AssemblyTitle>Lite Shadow</AssemblyTitle>
+    <Description>Lite Shadow</Description>
+    <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+</Project>
